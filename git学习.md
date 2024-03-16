@@ -2,6 +2,10 @@
 
 在git bash设置`git config --global core.quotepath false`即可
 
+# 在 HTTPS端口下使用 SSH
+
+参考官方文档：[ssh代理](https://docs.github.com/zh/authentication/troubleshooting-ssh/using-ssh-over-the-https-port)
+
 # ssh 连接
 
 `ssh-keygen -t rsa`创建密钥
